@@ -11,7 +11,7 @@ import hashlib
 import os
 import sys
 
-LINE = "I delegated the deadline to future me, and he just filed a formal complaint about my time management."
+LINE = "I asked future me to do it, but he got truncated mid-sentence and now insists the deadline was a hallucination."
 
 
 def main() -> int:
