@@ -7,9 +7,9 @@ Entry for the [make.fun](https://make.fun) bounty **u-brisk-kestrel-93-one-line-
 
 ## The line
 
-> "I delegated the deadline to future me, and he just filed a formal complaint about my time management."
+> "I asked future me to do it, but he got truncated mid-sentence and now insists the deadline was a hallucination."
 
-101 characters.
+111 characters.
 
 ## How it works
 
